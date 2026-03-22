@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: "Assets/Scenes/Sei l\xE1.unity"
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/StartScreen.unity
+    guid: e508b49d5c9fb4f4dac5ecadfe10e9dc
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 9a0da2486a9b63a4bbe305e3bfcf30e4
+  - enabled: 1
+    path: Assets/Scenes/Easy.unity
+    guid: 5e9594ce24e00c940a58741950a90a1c
+  - enabled: 1
+    path: Assets/Scenes/Medium.unity
+    guid: beca69ae748305d4982586fb236810c5
+  - enabled: 1
+    path: Assets/Scenes/Hard.unity
+    guid: 1431d1d1c03f27f40ab43638b9435ecc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
